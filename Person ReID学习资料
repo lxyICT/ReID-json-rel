@@ -1,0 +1,24 @@
+比赛: https://www.kesci.com/home/competition/5d90401cd8fc4f002da8e7be
+学习总结
+什么是行人重识别: https://blog.csdn.net/weixin_41427758/article/details/81188164
+基于深度学习的行人重识别研究综述
+https://mp.weixin.qq.com/s?__biz=MzI5NTIxNTg0OA==&mid=2247488888&idx=3&sn=408fc75228d24503b4ebbd5535d53478&chksm=ec57a2ffdb202be99a2cac4cd4a1336a2516f963d3b4d61999a508dc0c42cc523ad048cd7916&mpshare=1&scene=1&srcid=1220YhdmvFYgMG4yFH58F2A4#rd
+一. 相关资料
+  1. 知乎专栏 https://zhuanlan.zhihu.com/personReid
+  2. CSDN博客
+  re-ID学习资料(视频,文章,数据集和代码): https://blog.csdn.net/weixin_41427758/article/details/81187997
+  SB: 博客讲解 https://blog.csdn.net/abrams90/article/details/88950711
+      github实现 https://github.com/michuanhaohao/reid-strong-baseline
+  PCB: 博客 https://blog.csdn.net/Gavinmiaoc/article/details/80350613
+       Person_reID_baseline_pytorch: https://github.com/layumi/Person_reID_baseline_pytorch
+  MGN: https://blog.csdn.net/Gavinmiaoc/article/details/80840193
+       https://blog.csdn.net/qq_38901132/article/details/88975496
+二.为了提分的其他学习
+  1. 模型融合
+     https://blog.csdn.net/u014248127/article/details/78993753
+     http://www.sohu.com/a/252443540_787107
+  2. 图像增强的方法transform
+     PyTorch 学习笔记（三）：transforms的二十二个方法 https://blog.csdn.net/u011995719/article/details/85107009#6ptransformsRandomHorizontalFlip_85
+     PyTorch 学习笔记:transforms的二十二个方法（transforms用法非常详细） https://blog.csdn.net/qq_38410428/article/details/94719553
+     样本不平衡: https://blog.csdn.net/siyue0211/article/details/80318999
+       
